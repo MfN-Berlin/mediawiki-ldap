@@ -1,0 +1,5 @@
+version: '3'
+services:
+   wiki:
+      image: .
+      container_name: wiki-ldap
